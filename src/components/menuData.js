@@ -11,7 +11,7 @@ export const menuCategories = [
         name: 'Classic Pancakes',
         description: 'Fluffy pancakes served with maple syrup and butter',
         price: 12.99,
-        image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=300&h=200&fit=crop',
+        image: 'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&auto=format&fit=crop&w=1080&q=80',
         isVegetarian: true
       },
       {
